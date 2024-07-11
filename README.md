@@ -44,4 +44,13 @@ The analysis was divided into three levels: initial exploration and preprocessin
 * Visualize relationships between features and the target variable.
 
 
+## Key Insights
+* Top cuisines and cities based on restaurant density and customer ratings.
+* Relationship between restaurant features and customer preferences.
+
+## Results
+* Predictive models for restaurant ratings.
+* nsights into customer preferences and trends.
+
+
 Feel free to check out the repository for detailed code and insights.
